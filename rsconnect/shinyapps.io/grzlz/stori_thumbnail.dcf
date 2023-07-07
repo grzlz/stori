@@ -1,0 +1,14 @@
+name: stori_thumbnail
+title: stori_thumbnail
+username:
+account: grzlz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9422114
+bundleId: 7430324
+url: https://grzlz.shinyapps.io/stori_thumbnail/
+when: 1688720539.36764
+lastSyncTime: 1688720539.36766
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.py|cdk.json|lambda/requirements.txt|lambda/resize.py|output.jpg|README.md|requirements-dev.txt|requirements.txt|source.bat|stori_cdk/__init__.py|stori_cdk/__pycache__/__init__.cpython-39.pyc|stori_cdk/__pycache__/stori_cdk_stack.cpython-39.pyc|stori_cdk/stori_cdk_stack.py|test.jpg|testing.py|tests/__init__.py|tests/unit/__init__.py|tests/unit/test_stori_cdk_stack.py|.venv|cdk.out
